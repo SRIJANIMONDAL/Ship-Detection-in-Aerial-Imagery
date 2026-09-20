@@ -110,8 +110,3 @@ The notebook covers dataset access, YOLO training, prediction visualization, occ
 - Extend from single-class to multi-class maritime detection
 - Optimize and quantize models for edge deployment
 - Deploy on low-power UAV/edge platforms
-
-## Authors
-**Sayantan Chakraborty, Srijani Mondal, Saurav Kumar**
-
-M.Tech in Computer Science and Engineering, Indian Institute of Technology Goa, India.
